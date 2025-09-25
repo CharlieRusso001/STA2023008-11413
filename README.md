@@ -1,0 +1,8 @@
+Alexnet Description
+AlexNet is a famous computer program that learns how to recognize pictures. You can think of it like a special kind of brain for a computer, called a neural network. Just like your brain looks at the world through your eyes, AlexNet looks at the world through pictures. But instead of seeing everything at once, it breaks the picture into very small pieces. First, it looks for simple things, like lines, curves, or little spots of color. These are the building blocks, sort of like LEGO bricks.
+
+Once it finds those small patterns, AlexNet starts combining them to form bigger shapes. For example, straight lines might come together to form a square. Curves might connect to look like a circle or part of an ear. By stacking these pieces, AlexNet builds more complicated ideas, like “this shape looks like an eye” or “this group of patterns looks like a paw.” Eventually, after many layers of combining, it can recognize a whole object, like a cat, a dog, or even a car.
+
+At the end of the process, AlexNet makes a prediction: it tries to guess what the picture shows. At first, it isn’t very good and makes mistakes. But here’s the clever part: every time it guesses wrong, it adjusts itself just a little. After seeing thousands or even millions of pictures, AlexNet gets really good at figuring out what’s in them. It doesn’t need someone to tell it every rule, like “cats have whiskers.” Instead, it learns those rules by itself through practice.
+
+This was a big deal in computer science because it showed that computers could finally start to “see” in a way similar to humans. Today, AlexNet is one of the reasons why we have things like smart photo apps, face recognition, and self-driving cars.
