@@ -6,3 +6,6 @@ Once it finds those small patterns, AlexNet starts combining them to form bigger
 At the end of the process, AlexNet makes a prediction: it tries to guess what the picture shows. At first, it isn’t very good and makes mistakes. But here’s the clever part: every time it guesses wrong, it adjusts itself just a little. After seeing thousands or even millions of pictures, AlexNet gets really good at figuring out what’s in them. It doesn’t need someone to tell it every rule, like “cats have whiskers.” Instead, it learns those rules by itself through practice.
 
 This was a big deal in computer science because it showed that computers could finally start to “see” in a way similar to humans. Today, AlexNet is one of the reasons why we have things like smart photo apps, face recognition, and self-driving cars.
+
+</div>
+https://ai-powered-galaxy-classi-brwulza.gamma.site/
